@@ -1,0 +1,17 @@
+{
+  "id": "019ef999-7927-75f1-8ad2-bd604f7e40b0",
+  "name": "Rewrite login flow",
+  "description": "Rewrite login flow",
+  "status": "draft",
+  "worktree": {
+    "path": "/workspaces/study-agent-app",
+    "branch": "main",
+    "commit": "d4402fb01cf9038dc6aa58f9d6177469f2d45cb6"
+  },
+  "scoping": {},
+  "phases": [],
+  "decisions": [],
+  "memories": [],
+  "createdAt": "2026-06-24T12:27:25.351Z",
+  "updatedAt": "2026-06-24T12:27:25.351Z"
+}
